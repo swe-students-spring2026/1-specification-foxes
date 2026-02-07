@@ -48,7 +48,15 @@ See instructions. Delete this line and place a list of your User Stories here.
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+### Sellers
+User Story: As a furniture seller, I want to be able to set a price on the furniture so that I can attract serious buyers  
+
+![1 Furniture Seller UML](UMLDiagramSeller1.png)
+
+
+User Story: As a furniture seller, I want to write a description of the furniture so that I can tell buyers more about the product's condition or specifications.  
+
+![2 Furniture Seller UML](UMLDiagramSeller2.png)
 
 ## Clickable Prototype
 
