@@ -8,16 +8,16 @@ See instructions. Delete this line and replace with a list of the names of your 
 
 ## Stakeholders
 
-###Annie (Furniture Buyer)
+### Annie (Furniture Buyer)
 
-####Goals/Needs:
+#### Goals/Needs:
 - Knowing how quickly and easily she can get the item because students often do not have a car.
 - Knowing the quality of the item and how the past user used it such as if they had pets or smoked. 
 - Dimensions of the product so she can know if it not only fits in her space but also constraints of living in nyc (small stairwell, no elevalor, has to fit through the door, etc.).
 - The furniture should fit her aesthetic and existing furniture. 
 - Knowing when the item was purchased or how old it is.
 
-####Problems/Frustrations: 
+#### Problems/Frustrations: 
 - Unable to tell the cleanliness of the used furniture ex. Bed bugs.
 - Safety concerns: if she were picking up the item herself, she would send her dad to do it. 
 - No accountability as strangers could be catfishing or lying about the product. 
