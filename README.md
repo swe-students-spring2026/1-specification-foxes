@@ -19,8 +19,14 @@ See instructions. Delete this line and place your Product Vision Statement here.
 See instructions. Delete this line and place a list of your User Stories here.
 
 ## Activity Diagrams
+### Buyers
+User Stories:
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+1. As a furniture buyer, I want to report sellers so that the community remains reputable.
+![Buyer Activity Diagram 1](./UML_Activity_Diagram_Buyer1.png)
+
+2. As an NYU student, I want to verify my account with my school email so that I can trust that users are part of the NYU community.
+![Buyer Activity Diagram 2](./UML_Activity_Diagram_Buyer2.png)
 
 ## Clickable Prototype
 
