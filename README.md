@@ -4,19 +4,20 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
+[Tuo](https://github.com/TuoZhang0902)
 
 ## Stakeholders
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
 
 ## User Requirements
-
-See instructions. Delete this line and place a list of your User Stories here.
+Tuo:
+    1. As an NYU student, I want to verify my account with my school email so that I can trust that users are part of the NYU community. 
+    2. As a buyer, I want to see the verification badge and reputation score so that I can avoid any unsafe or risky transaction. 
+    3. As a seller, I want to rate buyers’ reliability so that I can avoid no-shows. 
+    4. As a seller, I want to see the suggested prices based on similar items so that I can price my items/lists fairly. 
 
 ## Activity Diagrams
 ### Buyers
