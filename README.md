@@ -45,6 +45,7 @@ Yuliang Liu https://github.com/yl11529
 
 ## Product Vision Statement
 
+This app provides a verified second-hand furniture marketplace that enables safer and faster transactions by combining structured listings, in-app communication, and reputation feedback to create a sustainable furniture ecosystem within the NYU community.
 
 ## User Requirements
 Tuo:
