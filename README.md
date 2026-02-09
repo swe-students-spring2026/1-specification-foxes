@@ -4,6 +4,10 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
+[Tuo](https://github.com/TuoZhang0902)
+
+## Stakeholders
+
 See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
 Yuliang Liu https://github.com/yl11529
 
@@ -41,9 +45,13 @@ Yuliang Liu https://github.com/yl11529
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
 
 ## User Requirements
+Tuo:
+    1. As an NYU student, I want to verify my account with my school email so that I can trust that users are part of the NYU community. 
+    2. As a buyer, I want to see the verification badge and reputation score so that I can avoid any unsafe or risky transaction. 
+    3. As a seller, I want to rate buyers’ reliability so that I can avoid no-shows. 
+    4. As a seller, I want to see the suggested prices based on similar items so that I can price my items/lists fairly. 
 - As a furniture buyer, I want to chat with sellers directly in the app so that I can negotiate prices and coordinate pickup times
 
 - As a furniture buyer, I want to see detailed condition information (such as pet exposure, smoking history, and purchase date)
@@ -62,7 +70,14 @@ See instructions. Delete this line and place your Product Vision Statement here.
 
 
 ## Activity Diagrams
+### Buyers
+User Stories:
 
+1. As a furniture buyer, I want to report sellers so that the community remains reputable.
+![Buyer Activity Diagram 1](./UML_Activity_Diagram_Buyer1.png)
+
+2. As an NYU student, I want to verify my account with my school email so that I can trust that users are part of the NYU community.
+![Buyer Activity Diagram 2](./UML_Activity_Diagram_Buyer2.png)
 ### Sellers
 User Story: As a furniture seller, I want to be able to set a price on the furniture so that I can attract serious buyers  
 
