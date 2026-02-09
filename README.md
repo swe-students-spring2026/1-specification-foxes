@@ -8,6 +8,8 @@ A little exercise to get started with the specification phase of the software de
 
 [Yuliang Liu](https://github.com/yl11529)
 
+[Hudhaifah Rehman] (https://github.com/hrehman1)
+
 ## Stakeholders
 
 ### Annie (Furniture Buyer)
@@ -69,6 +71,15 @@ This app provides a verified second-hand furniture marketplace that enables safe
 
 - As a furniture seller, I would like to mark items as urgent or time sensitive so that buyers understand the need for a quick sale/pickup.
 
+- As a furniture buyer, I want to be able to wishlist items to come back to later so that I can compare options before deciding.
+
+- As a furniture buyer, I want to report sellers so that the community remains reputable.
+
+- As a user, I want reminders for scheduled meetups so that I don’t forget about them among other responsibilities.
+
+- As a furniture seller, I want to see how many people viewed my listing without wishlisting or contacting, so that I can adjust the price or photos if necessary.
+
+
 ## Activity Diagrams
 ### Buyers
 User Stories:
@@ -91,4 +102,4 @@ User Story: As a furniture seller, I want to write a description of the furnitur
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+https://www.figma.com/proto/0zwuLR0iqFDRBPxddxjoRa/Second-Hand-Furniture-APP?node-id=31-413&p=f&t=xlezv8RY2OhUQLij-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=67%3A31&show-proto-sidebar=1
