@@ -44,7 +44,14 @@ See instructions. Delete this line and place your Product Vision Statement here.
 
 ## User Requirements
 
-See instructions. Delete this line and place a list of your User Stories here.
+- As a furniture buyer, I would like to see pickup location details and accessibility information so that I can plan transportation and pickup more easily.
+
+- As a furniture buyer, I want to filter furniture by style or descriptions so that I can find items that match my existing space and taste.
+
+- As a furniture seller, I would like to specify whether price negotiation is allowed so that I can manage buyer expectations and save time.
+
+- As a furniture seller, I would like to mark items as urgent or time sensitive so that buyers understand the need for a quick sale/pickup.
+
 
 ## Activity Diagrams
 
