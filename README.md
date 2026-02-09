@@ -4,6 +4,7 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
+<<<<<<< HEAD
 [Tuo Zhang](https://github.com/TuoZhang0902)
 
 [Yuliang Liu](https://github.com/yl11529)
@@ -51,7 +52,7 @@ A little exercise to get started with the specification phase of the software de
 - As a seller, I want to see the suggested prices based on similar items so that I can price my items/lists fairly.
 
 - As a seller, I want to see the suggested prices based on similar items so that I can price my items/lists fairly.
-=======
+
 - As a furniture buyer, I want to chat with sellers directly in the app so that I can negotiate prices and coordinate pickup times
 
 - As a furniture buyer, I want to see detailed condition information (such as pet exposure, smoking history, and purchase date)
@@ -77,7 +78,7 @@ User Stories:
 
 2. As an NYU student, I want to verify my account with my school email so that I can trust that users are part of the NYU community.
 ![Buyer Activity Diagram 2](./UML_Activity_Diagram_Buyer2.png)
-=======
+
 ### Sellers
 User Story: As a furniture seller, I want to be able to set a price on the furniture so that I can attract serious buyers  
 
