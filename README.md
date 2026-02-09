@@ -5,6 +5,7 @@ A little exercise to get started with the specification phase of the software de
 ## Team members
 
 See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
+Yuliang Liu https://github.com/yl11529
 
 ## Stakeholders
 
@@ -45,7 +46,6 @@ See instructions. Delete this line and place your Product Vision Statement here.
 ## User Requirements
 
 See instructions. Delete this line and place a list of your User Stories here.
-
 ## Activity Diagrams
 
 ### Sellers
