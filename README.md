@@ -4,9 +4,9 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-[Tuo](https://github.com/TuoZhang0902)
-Yuliang Liu https://github.com/yl11529
-Valeria Chang https://github.com/ValeriaChang
+[Tuo Zhang](https://github.com/TuoZhang0902)
+
+[Yuliang Liu](https://github.com/yl11529)
 
 ## Stakeholders
 
@@ -39,17 +39,20 @@ Valeria Chang https://github.com/ValeriaChang
 - Safety concerns during exchanges. Sometimes she has to do it at her house if it's a bigger item so safety can be a concern especially since they are usually strangers. 
 - Lack of pickup location information on Facebook marketplace. It’s sometimes difficult for buyers to know where they need to go to pick up things. Having a place to explain where the pickup point would be could help both parties. 
 
-
 ## Product Vision Statement
 
 This app provides a verified second-hand furniture marketplace that enables safer and faster transactions by combining structured listings, in-app communication, and reputation feedback to create a sustainable furniture ecosystem within the NYU community.
 
 ## User Requirements
-Tuo:
-    1. As an NYU student, I want to verify my account with my school email so that I can trust that users are part of the NYU community. 
-    2. As a buyer, I want to see the verification badge and reputation score so that I can avoid any unsafe or risky transaction. 
-    3. As a seller, I want to rate buyers’ reliability so that I can avoid no-shows. 
-    4. As a seller, I want to see the suggested prices based on similar items so that I can price my items/lists fairly. 
+
+- As an NYU student, I want to verify my account with my school email so that I can trust that users are part of the NYU community. 
+
+- As a buyer, I want to see the verification badge and reputation score so that I can avoid any unsafe or risky transaction. 
+
+- As a seller, I want to see the suggested prices based on similar items so that I can price my items/lists fairly.
+
+- As a seller, I want to see the suggested prices based on similar items so that I can price my items/lists fairly.
+
 - As a furniture buyer, I want to chat with sellers directly in the app so that I can negotiate prices and coordinate pickup times
 
 - As a furniture buyer, I want to see detailed condition information (such as pet exposure, smoking history, and purchase date)
@@ -66,7 +69,6 @@ Tuo:
 
 - As a furniture seller, I would like to mark items as urgent or time sensitive so that buyers understand the need for a quick sale/pickup.
 
-
 ## Activity Diagrams
 ### Buyers
 User Stories:
@@ -76,6 +78,7 @@ User Stories:
 
 2. As an NYU student, I want to verify my account with my school email so that I can trust that users are part of the NYU community.
 ![Buyer Activity Diagram 2](./UML_Activity_Diagram_Buyer2.png)
+
 ### Sellers
 User Story: As a furniture seller, I want to be able to set a price on the furniture so that I can attract serious buyers  
 
