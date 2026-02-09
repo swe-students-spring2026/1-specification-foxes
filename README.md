@@ -4,7 +4,6 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-<<<<<<< HEAD
 [Tuo Zhang](https://github.com/TuoZhang0902)
 
 [Yuliang Liu](https://github.com/yl11529)
@@ -42,6 +41,7 @@ A little exercise to get started with the specification phase of the software de
 
 ## Product Vision Statement
 
+This app provides a verified second-hand furniture marketplace that enables safer and faster transactions by combining structured listings, in-app communication, and reputation feedback to create a sustainable furniture ecosystem within the NYU community.
 
 ## User Requirements
 
