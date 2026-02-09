@@ -4,7 +4,6 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
 Yuliang Liu https://github.com/yl11529
 
 ## Stakeholders
@@ -41,7 +40,7 @@ Yuliang Liu https://github.com/yl11529
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+This app provides a verified second-hand furniture marketplace that enables safer and faster transactions by combining structured listings, in-app communication, and reputation feedback to create a sustainable furniture ecosystem within the NYU community.
 
 ## User Requirements
 - As a furniture buyer, I want to chat with sellers directly in the app so that I can negotiate prices and coordinate pickup times
