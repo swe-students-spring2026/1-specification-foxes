@@ -5,6 +5,7 @@ A little exercise to get started with the specification phase of the software de
 ## Team members
 
 See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
+Yuliang Liu https://github.com/yl11529
 
 ## Stakeholders
 
@@ -43,6 +44,13 @@ See instructions. Delete this line and replace with a list of the names of your 
 See instructions. Delete this line and place your Product Vision Statement here.
 
 ## User Requirements
+- As a furniture buyer, I want to chat with sellers directly in the app so that I can negotiate prices and coordinate pickup times
+
+- As a furniture buyer, I want to see detailed condition information (such as pet exposure, smoking history, and purchase date)
+
+- As a furniture seller, I want to mark my listings as "urgent" or "moving soon" so that buyers understand my timeline and I can avoid storage costs after my lease ends.
+
+- As a furniture seller, I want to specify clear pickup location details and time windows so that I can reduce no-shows and make the exchange process more convenient
 
 - As a furniture buyer, I would like to see pickup location details and accessibility information so that I can plan transportation and pickup more easily.
 
