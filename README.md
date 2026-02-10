@@ -8,7 +8,7 @@ A little exercise to get started with the specification phase of the software de
 
 [Yuliang Liu](https://github.com/yl11529)
 
-[Valeria ](https://github.com/yl11529)
+[Valeria Chang](https://github.com/ValeriaChang)
 
 [Hudhaifah Rehman](https://github.com/hrehman1)
 
@@ -50,47 +50,45 @@ This app provides a verified second-hand furniture marketplace that enables safe
 
 ## User Requirements
 
-- As an NYU student, I want to verify my account with my school email so that I can trust that users are part of the NYU community. 
+- As an NYU student, I want to verify my account with my school email so that I can trust that users are part of the NYU community.
 
-- As a buyer, I want to see the verification badge and reputation score so that I can avoid any unsafe or risky transaction. 
+- As a user, I want reminders for scheduled meetups so that I don’t forget about them among other responsibilities.
 
-- As a seller, I want to see the suggested prices based on similar items so that I can price my items/lists fairly.
-
-- As a seller, I want to see the suggested prices based on similar items so that I can price my items/lists fairly.
+- As a furniture buyer, I want to see the verification badge and reputation score so that I can avoid any unsafe or risky transaction.
 
 - As a furniture buyer, I want to chat with sellers directly in the app so that I can negotiate prices and coordinate pickup times
 
 - As a furniture buyer, I want to see detailed condition information (such as pet exposure, smoking history, and purchase date)
 
-- As a furniture seller, I want to mark my listings as "urgent" or "moving soon" so that buyers understand my timeline and I can avoid storage costs after my lease ends.
-
-- As a furniture seller, I want to specify clear pickup location details and time windows so that I can reduce no-shows and make the exchange process more convenient
-
 - As a furniture buyer, I would like to see pickup location details and accessibility information so that I can plan transportation and pickup more easily.
 
 - As a furniture buyer, I want to filter furniture by style or descriptions so that I can find items that match my existing space and taste.
-
-- As a furniture seller, I would like to specify whether price negotiation is allowed so that I can manage buyer expectations and save time.
-
-- As a furniture seller, I would like to mark items as urgent or time sensitive so that buyers understand the need for a quick sale/pickup.
 
 - As a furniture buyer, I want to be able to wishlist items to come back to later so that I can compare options before deciding.
 
 - As a furniture buyer, I want to report sellers so that the community remains reputable.
 
-- As a user, I want reminders for scheduled meetups so that I don’t forget about them among other responsibilities.
-
-- As a furniture seller, I want to see how many people viewed my listing without wishlisting or contacting, so that I can adjust the price or photos if necessary.
-
 - As a furniture buyer, I want to see pictures of the furniture so that I can see the overall appearance of it.
 
 - As a furniture buyer, I want to know the dimensions of the furniture so that I can know if it fits in my space or not.
 
+- As a furniture seller, I want to see the suggested prices based on similar items so that I can price my items/lists fairly.
+
+- As a furniture seller, I want to see the suggested prices based on similar items so that I can price my items/lists fairly.
+
+- As a furniture seller, I want to mark my listings as "urgent" or "moving soon" so that buyers understand my timeline and I can avoid storage costs after my lease ends.
+
+- As a furniture seller, I want to specify clear pickup location details and time windows so that I can reduce no-shows and make the exchange process more convenient
+
+- As a furniture seller, I would like to specify whether price negotiation is allowed so that I can manage buyer expectations and save time.
+
+- As a furniture seller, I would like to mark items as urgent or time sensitive so that buyers understand the need for a quick sale/pickup.
+
+- As a furniture seller, I want to see how many people viewed my listing without wishlisting or contacting, so that I can adjust the price or photos if necessary.
+
 - As a furniture seller, I want to be able to set a price on the furniture so that I can attract serious buyers  
 
 - As a furniture seller, I want to write a description of the furniture so that I can tell buyers more about the product's condition or specifications.
-
-
 
 ## Activity Diagrams
 ### Buyers
