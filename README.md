@@ -9,8 +9,10 @@ A little exercise to get started with the specification phase of the software de
 [Yuliang Liu](https://github.com/yl11529)
 
 [Valeria ](https://github.com/yl11529)
-[Hudhaifah Rehman] (https://github.com/hrehman1)
 
+[Hudhaifah Rehman](https://github.com/hrehman1)
+
+[Claire Boczkowski](https://github.com/ClaireBocz)
 ## Stakeholders
 
 ### Annie (Furniture Buyer)
@@ -80,6 +82,15 @@ This app provides a verified second-hand furniture marketplace that enables safe
 
 - As a furniture seller, I want to see how many people viewed my listing without wishlisting or contacting, so that I can adjust the price or photos if necessary.
 
+- As a furniture buyer, I want to see pictures of the furniture so that I can see the overall appearance of it.
+
+- As a furniture buyer, I want to know the dimensions of the furniture so that I can know if it fits in my space or not.
+
+- As a furniture seller, I want to be able to set a price on the furniture so that I can attract serious buyers  
+
+- As a furniture seller, I want to write a description of the furniture so that I can tell buyers more about the product's condition or specifications.
+
+
 
 ## Activity Diagrams
 ### Buyers
@@ -94,12 +105,12 @@ User Stories:
 ### Sellers
 User Story: As a furniture seller, I want to be able to set a price on the furniture so that I can attract serious buyers  
 
-![1 Furniture Seller UML](UMLDiagramSeller1.png)
+![1 Furniture Seller UML](SellerUMLDiagram1.png)
 
 
 User Story: As a furniture seller, I want to write a description of the furniture so that I can tell buyers more about the product's condition or specifications.  
 
-![2 Furniture Seller UML](UMLDiagramSeller2.png)
+![2 Furniture Seller UML](SellerUMLDiagram2.png)
 
 ## Clickable Prototype
 
