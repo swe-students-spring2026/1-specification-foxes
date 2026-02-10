@@ -32,13 +32,13 @@ A little exercise to get started with the specification phase of the software de
 - Difficult to gauge what the price of something should be when it's second hand.
 
 ### Ray (Furniture Seller)
-#### Four goals/needs:
+#### Goals/Needs:
 - Large, active community so it can sell quickly.
 - Protection from ghosting or scams such as optional or required payment/deposit especially for larger items.
 - Rating system on profiles so you can see history of how reliable a person was during past interactions. 
 - Being able to get a decent amount of money. Ideally 50% of the original price. 
 
-#### Four problems/frustrations:
+#### Problems/Frustrations:
 - She usually uses Facebook Marketplace. The problem is always with timing because as a student some items are last minute sales such as a bed. Dealing with storage can be a bigger problem if she doesn’t sell before the lease is up.
 - Convenience of picking up. Having pickup locations that are convenient for her and buyers. 
 - Safety concerns during exchanges. Sometimes she has to do it at her house if it's a bigger item so safety can be a concern especially since they are usually strangers. 
