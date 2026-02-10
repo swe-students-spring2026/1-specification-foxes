@@ -8,6 +8,7 @@ A little exercise to get started with the specification phase of the software de
 
 [Yuliang Liu](https://github.com/yl11529)
 
+[Valeria ](https://github.com/yl11529)
 [Hudhaifah Rehman] (https://github.com/hrehman1)
 
 ## Stakeholders
