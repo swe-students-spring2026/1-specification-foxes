@@ -20,12 +20,12 @@ A little exercise to get started with the specification phase of the software de
 #### Goals/Needs:
 - Knowing how quickly and easily she can get the item because students often do not have a car.
 - Knowing the quality of the item and how the past user used it such as if they had pets or smoked. 
-- Dimensions of the product so she can know if it not only fits in her space but also constraints of living in nyc (small stairwell, no elevalor, has to fit through the door, etc.).
+- Dimensions of the product so she can know if it not only fits in her space but also constraints of living in nyc (small stairwell, no elevator, has to fit through the door, etc.).
 - The furniture should fit her aesthetic and existing furniture. 
 - Knowing when the item was purchased or how old it is.
 
 #### Problems/Frustrations: 
-- Unable to tell the cleanliness of the used furniture ex. Bed bugs.
+- Unable to tell the cleanliness of the used furniture ex. bed bugs.
 - Safety concerns: if she were picking up the item herself, she would send her dad to do it. 
 - No accountability as strangers could be catfishing or lying about the product. 
 - Finds that it takes more effort to buy something second hand than new. 
@@ -39,8 +39,8 @@ A little exercise to get started with the specification phase of the software de
 - Being able to get a decent amount of money. Ideally 50% of the original price. 
 
 #### Four problems/frustrations:
-- She usually uses Facebook marketplace. The problem is always with timing because as a student some items are last minute sales such as a bed. Dealing with storage can be a bigger problem if she doesn’t sell before the lease is up.
-- Convenience of picking up. Because people are normally closer to those places.
+- She usually uses Facebook Marketplace. The problem is always with timing because as a student some items are last minute sales such as a bed. Dealing with storage can be a bigger problem if she doesn’t sell before the lease is up.
+- Convenience of picking up. Having pickup locations that are convenient for her and buyers. 
 - Safety concerns during exchanges. Sometimes she has to do it at her house if it's a bigger item so safety can be a concern especially since they are usually strangers. 
 - Lack of pickup location information on Facebook marketplace. It’s sometimes difficult for buyers to know where they need to go to pick up things. Having a place to explain where the pickup point would be could help both parties. 
 
